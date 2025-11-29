@@ -1,0 +1,45 @@
+# .NET build directories
+bin/
+obj/
+out/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio settings (even if you might not use VS)
+.vs/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# ASP.NET Core environment files
+appsettings.*.json
+
+# Temporary files
+*.tmp
+*.log
+*.temp
+
+# Rider / VS Code configs
+.idea/
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Coverage tools
+*.coverage
+*.coveragexml
+
+# Docker related
+docker-compose.*.yaml
+Dockerfile.*
+
